@@ -1,0 +1,32 @@
+div {
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 1.5%;
+    position: absolute;
+    background-color: aliceblue;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    margin-left: 0.5cm;
+}
+
+p {
+    margin-left: 0.5cm;
+}
+
+.formula {
+    font-size: 22px;
+    margin: auto;
+    text-align: center;
+    width: fit-content;
+    background-color: indianred
+}
+
+.leter {
+    color: red;
+}
