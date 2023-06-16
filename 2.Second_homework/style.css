@@ -1,0 +1,108 @@
+.up_links {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 60px;
+    background-color: #28aab9;
+    justify-content: center;
+}
+
+.up_links li {
+    color: white;
+    display: inline-block;
+}
+
+
+
+.onch {
+    margin-right: 15px;
+    color: #28aab9;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 350;
+    border-radius: 8%;
+    border: 1px solid white;
+    background-color: white;
+
+}
+
+.onch:hover {
+    background-color: #cfe9ed;
+    color: #0d93a3;
+    text-decoration: none;
+}
+
+.log_in {
+    margin-right: 15px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: 350;
+    border: 1px solid white;
+    border-radius: 8%;
+    background-color: #52579c;
+}
+
+.num {
+    margin-right: 15px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: 350;
+    border: 1px solid white;
+    border-radius: 8%;
+}
+
+.num:hover {
+    background-color: #cfe9ed;
+    color: #0d93a3;
+    text-decoration: none;
+}
+
+
+.under_hat {
+    display: flex;
+    height: 100px;
+    background-color: white;
+    justify-content: center;
+}
+
+
+.lower_links li {
+    margin-top: 28px;
+    display: inline-block;
+    text-transform: uppercase;
+
+}
+
+.lower_links li a {
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 2px;
+    font-family: CenturyGothic-Bold, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #25273b;
+}
+
+.lower_links li .of:hover {
+
+    text-decoration: none;
+    background-color: #7cdeda;
+}
+
+.active {
+    background-color: #f26695;
+}
+
+.notice {
+    float: right;
+    padding-bottom: 15px;
+    margin-right: 15px;
+    color: #fff;
+}
