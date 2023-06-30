@@ -1,0 +1,74 @@
+.aper{
+    border: 3px solid black;
+    height: 250px;
+    width: 50%;
+    margin-left: 25%;
+    align-items: center;
+    display: inline-flex;
+    padding: 40px;
+}
+.red{
+    background-color: red;
+    margin: 10%;
+    height: 50%;
+    width:20% ;
+    border: 3px solid black;
+}
+.yellow{
+    background-color: yellow;
+    margin: 10%;
+    height: 50%;
+    width:20% ;
+    border: 3px solid black;
+}
+.blue{
+    background-color: blue;
+    margin: 10%;
+    height: 50%;
+    width:20% ;
+    border: 3px solid black;
+
+}
+.center{
+    border: 3px solid lightblue;
+    height: 250px;
+    width: 50%;
+    margin-left: 25%;
+    align-items: center;
+    display: inline-flex;
+    padding: 40px;
+}
+.pink{
+    background-color: pink;
+    margin: 10% auto;
+    height: 50%;
+    width:20% ;
+    border: 3px solid black;
+
+}
+.lower{
+    border: 3px solid black;
+    height: 250px;
+    width: 50%;
+    margin-left: 25%;
+    align-items: center;
+    display: inline-flex;
+    padding: 40px;
+    flex-flow: row-reverse;
+}
+.orange{
+    background-color: orange;
+    margin: 10% auto;
+    height: 50%;
+    width:20% ;
+    border: 3px solid black;
+
+}
+.rose{
+    background-color: lightcoral;
+    margin: 10% auto;
+    height: 50%;
+    width:20% ;
+    border: 3px solid black;
+
+}
